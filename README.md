@@ -1,4 +1,4 @@
-# testLamdaLocally
+# Test Lamda function Locally
 While building Alexa Skills, one of my major issues was testing the Lamda function I had written locally. I bumped into [this](https://www.youtube.com/watch?v=_2s2o5vM1Z4) tutorial by Steve from Dabblabs.
 Credits and a shoutout to him for helping the universe with this.
 
